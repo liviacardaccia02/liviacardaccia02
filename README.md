@@ -1,5 +1,6 @@
-### Hi there 👋
-### 👩🏻‍💻 I am currently studying Computer Science and Engineering
+### Hi there ✨
+### 👩🏻‍💻 Computer Science and Engineering student here!
+### 🔭 I'm currently working on an IoT project for my thesis project
 
 <!--
 **liviacardaccia02/liviacardaccia02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
