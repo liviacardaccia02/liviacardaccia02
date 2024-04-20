@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm Livia, a passionate Computer Science and Engin
 
 ### ⚡️ Let's Build Something Awesome Together!
 - Whether it's coding, prototyping, or dreaming up innovative solutions, I'm eager to collaborate and make a positive impact. Let's connect and create something amazing! 🚀
+
+  
 ![liviacardaccia02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=liviacardaccia02&theme=dracula&hide_border=true)
 ![liviacardaccia02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liviacardaccia02&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
