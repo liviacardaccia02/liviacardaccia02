@@ -3,6 +3,7 @@
 ### 🔭 I'm currently building a smart air purifier for my final year project
 ### 🌱 I'm keen on learning new things 
 ![liviacardaccia02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=liviacardaccia02&theme=dracula&hide_border=true)
+![liviacardaccia02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liviacardaccia02&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **liviacardaccia02/liviacardaccia02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
