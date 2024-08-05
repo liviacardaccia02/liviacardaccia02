@@ -1,9 +1,9 @@
 # Hey there! 🌸
 
-Welcome to my GitHub profile! I'm Livia, a passionate Computer Science and Engineering student in my final year of studies. Currently, I'm diving deep into the world of smart technology as I work on my thesis project - building a smart air purifier. 🍃
+Welcome to my GitHub profile! I'm Livia and I've just graduated in Computer Science and Engineering. For my thesis project, I dove deep into the world of smart technology by building a smart air purifier. 🍃
 
 ### 🔭 Currently Working On:
-- My thesis project on building a smart air purifier to improve indoor air quality.
+- Adding new features on my thesis project on building a smart air purifier to improve indoor air quality.
 - Exploring new technologies and tinkering with IoT devices.
 
 ### 🌱 Currently Learning:
