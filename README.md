@@ -1,14 +1,15 @@
 # Hey there! 🌸
 
-Welcome to my GitHub profile! I'm Livia and I've just graduated in Computer Science and Engineering. For my thesis project, I dove deep into the world of smart technology by building a smart air purifier. 🍃
+Welcome to my GitHub profile! I'm Livia and I've just my master in Autonomous Systems and Intellingent Robots in Polytech Nice-Sophia, in the South of France. 🍃
 
 ### 🔭 Currently Working On:
-- Adding new features on my thesis project on building a smart air purifier to improve indoor air quality.
+- A research&development project using a Turtle Bot.
+- Some coding projects to dive deep into C++ programming.
 - Exploring new technologies and tinkering with IoT devices.
 
 ### 🌱 Currently Learning:
 - Prototyping and hardware development for IoT projects.
-- Web development and related technologies.
+- Embedded AI.
 
 ### 👯 Looking to Collaborate On:
 - Projects related to IoT, smart devices, and environmental sustainability.
