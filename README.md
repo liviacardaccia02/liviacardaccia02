@@ -1,6 +1,6 @@
 # Hey there! 🌸
 
-Welcome to my GitHub profile! I'm Livia and I've just my master in Autonomous Systems and Intelligent Robots in Polytech Nice-Sophia, in the South of France. 🍃
+Welcome to my GitHub profile! I'm Livia and I've just started my master in Autonomous Systems and Intelligent Robots in Polytech Nice-Sophia, in the South of France. 🍃
 
 ### 🔭 Currently Working On:
 - A Research&Development project using a Turtle Bot.
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Livia and I've just my master in Autonomous Sy
 
 ### 🌱 Currently Learning:
 - Prototyping and hardware development for IoT projects.
-- Embedded AI.
+- New technologies for Embedded AI.
 
 ### 👯 Looking to Collaborate On:
 - Projects related to IoT, smart devices, and environmental sustainability.
